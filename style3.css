@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+tr{
+    background-color: white;
+}
+
+.lok{
+    background-color: rgba(106, 106, 106, 1);
+    padding: 20px;
+    width: 200px;
+    color: white;
+}
+
+.lokk{
+    display: flex;
+    justify-content: center;
+}
+
+.main-catalog{
+    display: flex;
+    justify-content: center;
+}
+
+.catalog{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.lok:hover{
+border: 3px double black;
+background-color:rgba(106, 106, 106, 1);
+}
+
+.fia2{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    float:left;
+}
+
+header{
+    background-color: rgba(50, 50, 50, 1);
+    height: 60px;
+}
+
+.noz{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    background-color: rgb(87, 87, 87);
+}
