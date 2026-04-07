@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>f1fakestore</title>
+<link rel="stylesheet" href="style5.css">
+</head>
+
+<body>
+<header>
+<div>
+<img class="fia2" src="https://learn.logikaschool.com/uploads/student/4268583/69a2ade2cd1e1.png">
+</div>
+</header>
+
+ <div class="main-catalog">
+            <div class="catalog">
+                <h2>Scuderia Ferrari 2026 Team Charles<br> Leclerc Trucker Cap - Red</h2><br>
+                <p><img class="catalog-img" src="https://learn.logikaschool.com/uploads/student/4268583/69cfaa18428b1.png"/></p><br>
+                <p>92€</p><br>
+                <div class="lokk">
+                    <p class="lok">Купить</p>
+                </div>
+            </div>
+                <div class="catalog">
+                <h2>Scuderia Ferrari Scuderia Ferrari<br> Puma Rain Jacket - Red  Up T-Shirt<br></h2><br>
+                <p><img class="catalog-img" src="https://learn.logikaschool.com/uploads/student/4268583/69cfaa29bcf76.png"/></p><br>
+                <p>154€</p><br>
+                <div class="lokk">
+                    <p class="lok">Купить</p>
+                </div>
+            </div>
+        </div>
+        <div class="main-catalog">
+            <div class="catalog">
+                <h2>Scuderia Ferrari Lewis Hamilton<br> T-Shirt - Unisex</h2><br>
+                <p><img class="catalog-img" src="https://learn.logikaschool.com/uploads/student/4268583/69cfa9b97a9ea.png"/></p><br>
+                <p>42€</p><br>
+                <div class="lokk">
+                    <p class="lok">Купить</p>
+                </div>
+            </div>
+
+            <div class="catalog">
+                <h2>Scuderia Ferrari Scuderia Ferrari<br> Puma Rain Jacket - Black</h2><br>
+                <p><img class="catalog-img" src="https://learn.logikaschool.com/uploads/student/4268583/69cfa97cca13f.png"/></p><br>
+                <p>154€ </p><br>
+                <div class="lokk">
+                    <p class="lok">Купить</p>
+                </div>
+            </div>
+        </div>
+             
+            <div class="main-catalog">
+            <div class="catalog">
+                <h2>Scuderia Ferrari Race Portable<br> Bag by Puma - Black</h2><br>
+                <p><img class="catalog-img" src="https://learn.logikaschool.com/uploads/student/4268583/69d0cb9744bf2.png"/></p><br>
+                <p>41€</p><br>
+                <div class="lokk">
+                    <p class="lok">Купить</p>
+                </div>
+            </div>
+
+            <div class="catalog">
+                <h2>Scuderia Ferrari SP-26 Poster<br><br></h2><br>
+                <p><img class="catalog-img" src="https://learn.logikaschool.com/uploads/student/4268583/69d0cbcb7ac97.png"/></p><br>
+                <p>75€ </p><br>
+                <div class="lokk">
+                    <p class="lok">Купить</p>
+                </div>
+            </div>
+        </div>
+<footer>
+    <div class="noz">
+    <p>Follow Us <img src="https://learn.logikaschool.com/uploads/student/4268583/69d0d073323e1.png"/><img src="https://learn.logikaschool.com/uploads/student/4268583/69d0d0a981e97.png"/></p>
+    </div>
+</footer>
+</body>
+</html>
